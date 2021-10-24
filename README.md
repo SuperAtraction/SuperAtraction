@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @SuperAtraction
 - 👀 I’m interested in coding & electricity 
 - 🌱 I'm currently learning C ++ 
-- 📫 How to reach me:
-
--https://twitter.com/SAtraction
-
+- 📫 How to reach me:<br>
+-https://twitter.com/SAtraction<br>
 -https://www.youtube.com/channel/UC6A_DMk_m_Kcddkpddhikyg/featured 
 
 <!---
