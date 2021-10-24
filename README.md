@@ -2,7 +2,9 @@
 - 👀 I’m interested in coding & electricity 
 - 🌱 I'm currently learning C ++ 
 - 📫 How to reach me:
+- 
 -https://twitter.com/SAtraction
+
 -https://www.youtube.com/channel/UC6A_DMk_m_Kcddkpddhikyg/featured 
 
 <!---
