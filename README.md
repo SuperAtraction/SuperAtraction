@@ -9,7 +9,7 @@
 
 Ce lien permet d'avoir accès a la traduction du texte.
 
-WIKI : 
+WIKI : https://github.com/SuperAtraction/SuperAtraction/wiki/Accueil
 
 <!---
 SuperAtraction/SuperAtraction is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
