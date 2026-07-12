@@ -1,5 +1,7 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SuperAtraction&rank_icon=percentile&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=SuperAtraction&rank_icon=percentile&show_icons=true&include_all_commits=true)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SuperAtraction&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=SuperAtraction&langs_count=4)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SuperAtraction&langs_count=4&exclude_repo=superatraction.github.io,CreativityCreator,Updater-Launcher" />
+  <img src="https://github-stats-extended.vercel.app/api?username=SuperAtraction&rank_icon=percentile&show_icons=true&include_all_commits=true&exclude_repo=superatraction.github.io,CreativityCreator,Updater-Launcher" />
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
