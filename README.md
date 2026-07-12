@@ -1,3 +1,2 @@
-Bonjour, moi, c'est SuperAtraction !<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superatraction)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SuperAtraction&rank_icon=percentile&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=SuperAtraction&rank_icon=percentile&show_icons=true&include_all_commits=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SuperAtraction&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=SuperAtraction&langs_count=4)
